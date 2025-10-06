@@ -13,14 +13,14 @@
 <h2 align="center">Projetos em Destaque</h2>
 
 <div align="center">
-  <a href="https://seuprojeto1.live" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CvclkqkysNWHZU7QuhTjOntGqCjmgXhGwA&s" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
+  <a href="https://www.linkedin.com/in/cristiano-fandula/" target="_blank">
+    <img src="https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/car.png" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
   </a>
-  <a href="https://seuprojeto2.live" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CvclkqkysNWHZU7QuhTjOntGqCjmgXhGwA&s" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
+  <a href="venusdigital.vercel.app" target="_blank">
+    <img src="https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/venus.png" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
   </a>
-  <a href="https://seuprojeto3.live" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CvclkqkysNWHZU7QuhTjOntGqCjmgXhGwA&s" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
+  <a href="https://www.linkedin.com/in/cristiano-fandula/" target="_blank">
+    <img src="https://github.com/ChristianoAlpha/ChristianoAlpha/blob/main/news.png" width="280" height="160" style="margin: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(115,115,115,0.5);">
   </a>
 </div> 
 
@@ -31,7 +31,7 @@
 
 ###  Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,nodejs,python,django,flutter&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,laravel,php,python,django&theme=dark&perline=6" />
 </p>
 
 ### Databases & Cloud
@@ -42,7 +42,7 @@
 
 ### Tools & Utilities
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,postman&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,postman,linux&theme=dark&perline=4" />
 </p>
 
 
