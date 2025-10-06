@@ -24,7 +24,9 @@
   </a>
 </div> 
 
-
+ &nbsp;
+ &nbsp;
+ 
 ## My Tech Arsenal :
 
 ###  Languages & Frameworks
@@ -37,16 +39,23 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,aws,azure,gcp,docker,redis&theme=dark&perline=5" />
 </p>
 
+
 ### Tools & Utilities
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,linux,bash,postman&theme=dark&perline=4" />
 </p>
 
+
+
 <img src="https://t3.ftcdn.net/jpg/13/24/76/56/360_F_1324765683_vw1KwL9blBAllHEKqGdQ0tdiD9QGA24D.jpg"
      width="400px" 
      align="right" 
-     style="border-radius: 10px; margin: 10px;">
+     style="border-radius: 10px; margin: 20px; margin-bottom: 100px;">
 
+     
+ &nbsp;
+ &nbsp;
+ 
 ## Contacts:
 
 <p align="center">
